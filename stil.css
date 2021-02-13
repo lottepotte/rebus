@@ -124,9 +124,15 @@ letter-spacing: 7px;
     margin-top: 0;
     margin-bottom: 0px;
     color: #3a3f76;
-    background-color: #f4d569; 
+    background-color: #f4d569;         
+}
 
-
-    
-        
+ol{
+text-align: left;
+ font-family: roboto, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #3a3f76;
 }
